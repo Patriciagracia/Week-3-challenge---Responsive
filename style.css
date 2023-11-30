@@ -102,4 +102,7 @@ p {
   .col-6 {
     width: 100%;
   }
+  a.email-link {
+    font-size: 23px;
+  }
 }
