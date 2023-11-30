@@ -105,4 +105,13 @@ p {
   a.email-link {
     font-size: 23px;
   }
+  h1 {
+    font-size: 45px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  p {
+    font-size: 15px;
+  }
 }
