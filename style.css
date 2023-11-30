@@ -97,9 +97,9 @@ p {
   .home-btn {
     display: block;
     max-width: 100%;
+    text-align: center;
   }
-  .row p {
-    margin-left: 0;
-    margin-right: 0;
+  .col-6 {
+    width: 100%;
   }
 }
